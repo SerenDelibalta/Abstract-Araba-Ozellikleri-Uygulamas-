@@ -1,3 +1,5 @@
+// Soyut sınıflar ve soyut metotlar kullanarak bir arabanın modlei rengi gibi özellikler ve yaktıgı benzinin lt olarak
+// gösterene abstract örneği  bir program uygulaması
 
 
 package final_uyg1;
